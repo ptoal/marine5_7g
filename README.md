@@ -21,9 +21,16 @@ The Marine 5, Model 7G is the result of that effort.
  - Qty 1 - Roll of box tape
  - Qty 1 - Pack of Markers
 
+# Construction Tips
+
+
 # Construction
 
-1. Begin with a sheet of 4 x 8 Cardboard.  E Flute (1.6mm)
+1. Begin with a sheet of 4 x 8 Cardboard.  E Flute (1.6mm thick)
+Measure and mark 11" from each long side, and the aft short-side.  Use the other 4x8 sheet as a straight edge to score a line on each fold as shown in Fig 1.
+NOTE: Do not cut through! You goal is to create an indentation on the top surface that will give a sharp fold. Light pressure with a utility knife that has the blade retracted works well, as does a car key, etc.)
+
+![Figure 1.  Score and Valley fold sides](./images/fig1.png)
 
  
    +-------------------+
