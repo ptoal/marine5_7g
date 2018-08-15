@@ -33,29 +33,6 @@ NOTE: Do not cut through! You goal is to create an indentation on the top surfac
 ![Figure 1.  Score and Valley fold sides](./images/fig1.png)
 
  
-   +-------------------+
-   | +-------------------+
-   | |                   |
-   | |                   |
-   | |                   |
-   | |                   |
-   | |                   |
-   | |                   |
-   | |    4 x 8 Sheet    |
-   | |    Cardboard      |
-   | |                   |
-   | |                   |
-   | |     Qty 2         |
-   | |                   |
-   | |                   |
-   | |                   |
-   | |                   |
-   | |                   |
-   | |                   |
-   | |                   | /**\
-   +-+                   | *  *
-     +-------------------+ \**/ Roll of Box Tape
-
 
 
 
